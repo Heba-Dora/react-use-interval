@@ -1,0 +1,7 @@
+{
+  "name": "react-use-interval",
+  "version": "1.0.0",
+  "description": "Enterprise React interval hook.",
+  "scripts": { "test": "jest" },
+  "devDependencies": { "jest": "^29.5.0", "@testing-library/react": "^14.0.0", "jest-environment-jsdom": "^29.5.0", "react": "^18.2.0", "react-dom": "^18.2.0" }
+}
